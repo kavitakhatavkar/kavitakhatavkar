@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavitakhatavkar
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently a Fresher looking for a job.
+- 👀 Currently working as a Software Developer
+- 🌱 Open for freelancing gigs
 - 📫 How to reach me:- email: kavitakhatavkar60@gmail.com
 
 <!---
